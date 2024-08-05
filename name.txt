@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Biniyam Negasa
+=======
+Fasil Hawultie
+>>>>>>> 0955b4f (feat: name added)
